@@ -23,8 +23,6 @@ Cure WebApp is a hospital appointment booking platform. This project automates t
 
 ---
 
----
-
 ## ⚙️ Setup & Installation  
 
 ### **1️⃣ Prerequisites**  
