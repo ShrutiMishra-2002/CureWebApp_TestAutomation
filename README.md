@@ -26,7 +26,6 @@ Cure WebApp is a hospital appointment booking platform. This project automates t
 ## Setup & Installation  
 
 ### **Prerequisites**  
-Ensure the following are installed:  
 - **Java JDK 11+**  
 - **Maven**  
 - **Eclipse/IntelliJ IDEA** (or any Java IDE)  
