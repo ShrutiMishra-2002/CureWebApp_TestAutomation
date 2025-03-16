@@ -25,13 +25,13 @@ Cure WebApp is a hospital appointment booking platform. This project automates t
 
 ## Setup & Installation  
 
-### ** Prerequisites**  
+### **Prerequisites**  
 Ensure the following are installed:  
 - **Java JDK 11+**  
 - **Maven**  
 - **Eclipse/IntelliJ IDEA** (or any Java IDE)  
 
-### ** Clone the Repository**  
+### **Clone the Repository**  
 ```sh
 git clone https://github.com/ShrutiMishra-2002/CureWebApp_TestAutomation.git
 cd CureWebApp_TestAutomation
